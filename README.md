@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi world, my name is Arthur and welcome to my profile 👋
 
 <!--
 **astral098/astral098** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
